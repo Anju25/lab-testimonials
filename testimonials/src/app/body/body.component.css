@@ -1,0 +1,51 @@
+ul{
+    display:flex;
+    justify-content: space-between;
+    background-color: white;
+}
+ul li
+{
+    list-style:none;
+    padding:15px;
+    padding-right:39px;
+    margin-top:10px;
+    font-size:20px;
+}
+img
+{
+    width:180px;
+}
+#lap
+{
+    height:450px;
+    width:600px;
+}
+section
+{
+    display:flex;
+    margin-left:50px;
+}
+section div
+{
+    padding-left:90px;
+}
+#so
+{
+    font-size:20px;
+    font-weight:bold;
+}
+h1
+{
+    color:orangered;
+    font-size:50px;
+}
+#orange
+{
+    color:orangered;
+    font-size:20px;
+
+}
+#paragrah
+{
+    font-size:25px;
+}

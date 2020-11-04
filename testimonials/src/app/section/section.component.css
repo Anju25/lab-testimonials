@@ -1,0 +1,38 @@
+#here
+{
+    font-size:25px;
+    font-weight:bold;
+    margin-left:120px;
+    margin-top:110px;
+    margin-bottom:60px;
+}
+img{
+    height:60px;
+}
+#review
+{
+    width:990px;
+    margin-left:200px;
+}
+#review ul
+{
+    display:flex;
+}
+#review ul li
+{
+    list-style:none;
+    margin-bottom:0px;
+    padding-left:15px;
+    height:45px;
+}
+#review p
+{
+    margin-top:30px;
+    margin-left:130px;
+    font-size:20px;
+}
+ hr
+{
+    margin-right:auto;
+    width:50%;
+}
